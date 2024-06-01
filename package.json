@@ -1,0 +1,18 @@
+{
+  "name": "get-logs-benchmark",
+  "version": "1.0.0",
+  "description": "Benchmark for eth_getLogs consistency",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "viem": "^2.13.3"
+  },
+  "type": "module",
+  "devDependencies": {
+    "tsx": "^4.11.0"
+  }
+}
